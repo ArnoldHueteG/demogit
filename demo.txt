@@ -1,2 +1,8 @@
 hola mundo
 
+como estas
+
+hola nube
+
+
+git reset --soft HEAD~3
